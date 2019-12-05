@@ -10,27 +10,41 @@ This is my professional portfolio page which is built using HTML and CSS.
 Application has the following pages -
 
 Index - 'about me' page. Comprises of a brief description about myself.
+
 Portfolio - images/work done by me.
+
 Contact - form that has provisioning to fill details like Name, email and message.
 
 # Following html elements have been used to build the basic structure -
 
 -header
+
 -nav
+
 -section
+
 -h1
+
 -p
+
 -footer
 
 # Following css properties have been used to style the application to meet the project requirements -
 
 -margin
+
 -border
+
 -width
+
 -color
+
 -background
+
 -position
+
 -footer
+
 
 # Below font,colors and styles have been applied to pages -
 
